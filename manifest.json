@@ -1,11 +1,11 @@
 {
     "name": "Sketafuls_Adventurepack",
-    "version_number": "3.0.0",
+    "version_number": "3.0.1",
     "website_url": "https://discord.gg/9cvjHk6B6n",
 "description": "READ CHANGELOG BEFORE UPDATING! Almost 100 Mods to expand all parts of Valheim while also trying to fix a lot of the cumbersome parts of the game.",
     "dependencies": [
 "JereKuusela-Item_Stand_All_Items-1.25.0",
-"ZenDragon-Zen_ModLib-1.3.5",
+"ZenDragon-Zen_ModLib-1.3.7",
 "WackyMole-WackyEpicMMOSystem-1.9.50",
 "ValheimModding-JsonDotNET-13.0.4",
 "ValheimModding-YamlDotNet-16.3.1",
@@ -94,10 +94,10 @@
 "Smoothbrain-CombatOwner-1.0.0",
 "Digitalroot-Heightmap_Unlimited_Remake-1.4.1",
 "Azumatt-ResourceUnloadOptimizer-1.0.4",
-"cjayride-InstantMonsterLootDrop-0.6.0",
+"Azumatt-TrueInstantLootDrop-1.0.2",
 "Smoothbrain-SmoothSave-1.0.5",
 "Smoothbrain-DualWield-1.0.9",
-"ZenDragon-ZenItemStands-0.6.5",
+"ZenDragon-ZenItemStands-0.6.7",
 "CookieMilk-ReadMe-1.1.8"
     ]
 }

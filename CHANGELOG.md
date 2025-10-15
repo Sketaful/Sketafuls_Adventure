@@ -1,4 +1,22 @@
-<b>V3.0.0
+<b>V3.0.1
+
+    UPDATED:
+    * Zen_ModLib will be updated to: 1.3.7
+    * ZenItemStands will be updated to: 0.6.7
+
+    ADDED:
+    * TrueInstantLootDrop by Azumatt  
+      (Replaces InstantMonsterLootDrop since it's way better)
+
+    REMOVED:
+    * InstantMonsterLootDrop by cjayride
+      (As said above. Replaced by TrueInstantLoot drop which is way better)
+
+---
+
+</b>
+
+V3.0.0
 
 <small>Been a bit of changes to the modpack to fix some old mods not working and some mods that just needed to be removed.  
 If you played with the v2 versions of this modpack, make sure the removed mods are mods you can live without!  
@@ -72,8 +90,6 @@ Or if you really need them, just add them yourself. The configs for them are lef
 As always, discord is a perfect place to let me know.  
   
 I also still accept ingame images to add to the loading screen if you have any buildings or anything else you want to brag about. Just send me the images in discord and I'll add them to the next update for everyone to see and enjoy ;)</small>
-
-</b>
 
 ---
 
