@@ -1,12 +1,12 @@
 <b>V3.0.2
 
     UPDATED:
-    * Almanac will be updated to: 3.6.0
-    * KillMeForMyPower will be updated to: 1.3.8
-    * UsefulPaths will be updated to: 1.0.6
-    * WackyEpicMMOSystem will be updated to: 1.9.51
-    * ZenItemStands will be updated to: 0.6.10
-    * ZenSign will be updated to: 1.3.9
+    * Almanac updated to v3.6.0
+    * KillMeForMyPower updated to v1.3.8
+    * UsefulPaths updated to v1.0.6
+    * WackyEpicMMOSystem updated to v1.9.51
+    * ZenItemStands updated to v0.6.10
+    * ZenSign updated to v1.3.9
 
 ---
 
@@ -15,8 +15,8 @@
 V3.0.1
 
     UPDATED:
-    * Zen_ModLib will be updated to: 1.3.7
-    * ZenItemStands will be updated to: 0.6.7
+    * Zen_ModLib updated to v1.3.7
+    * ZenItemStands updated to v0.6.7
 
     ADDED:
     * TrueInstantLootDrop by Azumatt  
@@ -148,22 +148,22 @@ V2.1.24
 V2.1.23
 
     UPDATED:
-    * YamlDotNet will be updated to: 16.3.1
-    * MagicPlugin will be updated to: 2.1.4
-    * WackysDatabase will be updated to: 2.4.56
-    * WackyEpicMMOSystem will be updated to: 1.9.43
-    * Zen_ModLib will be updated to: 1.1.18
-    * ZenSign will be updated to: 1.2.7
-    * ZenRedecorate will be updated to: 1.1.5
-    * Drop_That will be updated to: 3.1.2
-    * Jotunn will be updated to: 2.25.0
-    * ClayBuildPieces will be updated to: 1.2.5
-    * Item_Stand_All_Items will be updated to: 1.23.0
-    * ConfigurationManager will be updated to: 1.1.4
-    * JsonDotNET will be updated to: 13.0.4
-    * WardIsLove will be updated to: 3.7.1
-    * CreatureLevelAndLootControl will be updated to: 4.6.4
-    * ServerCharacters will be updated to: 1.4.16
+    * YamlDotNet updated to v16.3.1
+    * MagicPlugin updated to v2.1.4
+    * WackysDatabase updated to v2.4.56
+    * WackyEpicMMOSystem updated to v1.9.43
+    * Zen_ModLib updated to v1.1.18
+    * ZenSign updated to v1.2.7
+    * ZenRedecorate updated to v1.1.5
+    * Drop_That updated to v3.1.2
+    * Jotunn updated to v2.25.0
+    * ClayBuildPieces updated to v1.2.5
+    * Item_Stand_All_Items updated to v1.23.0
+    * ConfigurationManager updated to v1.1.4
+    * JsonDotNET updated to v13.0.4
+    * WardIsLove updated to v3.7.1
+    * CreatureLevelAndLootControl updated to v4.6.4
+    * ServerCharacters updated to v1.4.16
 
     REMOVED:
     * BuildableBossStones
@@ -341,11 +341,11 @@ V2.1.12
     * PerfectPlacement - Removed and switched back to Gizmo (again). Seems it works if only on client.
 
     UPDADED:
-    * Almanac will be updated to: 3.4.4
-    * CookingAdditions will be updated to: 1.2.7
-    * MorePins will be updated to: 420.0.8
-    * WackyEpicMMOSystem will be updated to: 1.9.38
-    * ZenSign will be updated to: 1.1.1
+    * Almanac updated to v3.4.4
+    * CookingAdditions updated to v1.2.7
+    * MorePins updated to v420.0.8
+    * WackyEpicMMOSystem updated to v1.9.38
+    * ZenSign updated to v1.1.1
 
     CONFIGS:
     * AzuClock
@@ -577,15 +577,15 @@ It should work but I can't promise nothing will be wrong. (Let me know if you fi
 V2.0.9
 
     UPDATED:
-    * Jotunn will be updated to: 2.24.1
-    * AzuCraftyBoxes will be updated to: 1.7.0
-    * AAA_Crafting will be updated to: 1.6.5
-    * PlantEverything will be updated to: 1.18.3
-    * PlantEasily will be updated to: 2.0.3
-    * AzuExtendedPlayerInventory will be updated to: 1.4.7
-    * Quick_Stack_Store_Sort_Trash_Restock will be updated to: 1.4.12
-    * Jewelcrafting will be updated to: 1.5.33
-    * CreatureLevelAndLootControl will be updated to: 4.6.3
+    * Jotunn updated to v2.24.1
+    * AzuCraftyBoxes updated to v1.7.0
+    * AAA_Crafting updated to v1.6.5
+    * PlantEverything updated to v1.18.3
+    * PlantEasily updated to v2.0.3
+    * AzuExtendedPlayerInventory updated to v1.4.7
+    * Quick_Stack_Store_Sort_Trash_Restock updated to v1.4.12
+    * Jewelcrafting updated to v1.5.33
+    * CreatureLevelAndLootControl updated to v4.6.3
     * 
     
     ADDED:
@@ -606,9 +606,9 @@ V2.0.9
 V2.0.8
 
     UPDATED:
-    * Jotunn will be updated to: 2.24.0
-    * OdinsSteelworks will be updated to: 0.2.5
-    * ResinGuard will be updated to: 1.2.4
+    * Jotunn updated to v2.24.0
+    * OdinsSteelworks updated to v0.2.5
+    * ResinGuard updated to v1.2.4
     
     ADDED:
     * Intermission by ComfyMods
@@ -628,12 +628,12 @@ V2.0.7 - The february extra update #3 (beta?)
     * TravelingHaldor 1.0.7 By OdinPlus
 
     UPDATED:
-    * More_Vanilla_Build_Prefabs will be updated to: 1.4.3
-    * MorePins will be updated to: 420.0.7
-    * MagicPlugin will be updated to: 2.1.1
-    * WackysDatabase will be updated to: 2.4.50
-    * Custom_Raids will be updated to: 1.7.14
-    * VNEI will be updated to: 0.15.6
+    * More_Vanilla_Build_Prefabs updated to v1.4.3
+    * MorePins updated to v420.0.7
+    * MagicPlugin updated to v2.1.1
+    * WackysDatabase updated to v2.4.50
+    * Custom_Raids updated to v1.7.14
+    * VNEI updated to v0.15.6
 
     CONFIGS:
     * Jewelcrafting - Lowered chances of basically everything. (Cause it's OP). Max slots per item lowered from 5 to 3 because more than that is stupid.
@@ -650,9 +650,9 @@ V2.0.7 - The february extra update #3 (beta?)
 V2.0.6 - The february extra update #2
 
     UPDATED:
-    * MonstrumDeepNorth will be updated to: 2.0.4
-    * More_Vanilla_Build_Prefabs will be updated to: 1.4.2
-    * TravelingHaldor will be updated to: 1.0.6
+    * MonstrumDeepNorth updated to v2.0.4
+    * More_Vanilla_Build_Prefabs updated to v1.4.2
+    * TravelingHaldor updated to v1.0.6
 
 
 ---
@@ -660,23 +660,23 @@ V2.0.6 - The february extra update #2
 V2.0.5 - The february extra update #1
 
     UPDATED:
-    * AzuCraftyBoxes will be updated to: 1.6.1
-    * WackyEpicMMOSystem will be updated to: 1.9.36
-    * WarfareFireAndIce will be updated to: 2.0.7
-    * DiscoveryPins will be updated to: 0.3.9
-    * MonstrumDeepNorth will be updated to: 2.0.4
-    * Monstrum will be updated to: 1.5.0
-    * Drop_That will be updated to: 3.1.0
+    * AzuCraftyBoxes updated to v1.6.1
+    * WackyEpicMMOSystem updated to v1.9.36
+    * WarfareFireAndIce updated to v2.0.7
+    * DiscoveryPins updated to v0.3.9
+    * MonstrumDeepNorth updated to v2.0.4
+    * Monstrum updated to v1.5.0
+    * Drop_That updated to v3.1.0
 
 ---
 
 V2.0.4 - The february fix #1
 
     UPDATED:
-    * AzuCraftyBoxes will be updated to: 1.6.0
-    * More_Vanilla_Build_Prefabs will be updated to: 1.4.1
-    * GuckCollector will be updated to: 1.1.5
-    * MultiUserChest will be updated to: 0.6.1
+    * AzuCraftyBoxes updated to v1.6.0
+    * More_Vanilla_Build_Prefabs updated to v1.4.1
+    * GuckCollector updated to v1.1.5
+    * MultiUserChest updated to v0.6.1
 
     FIX:
     * Config for taming, mounts and saddles have been fixed. Need some more love.
@@ -687,14 +687,14 @@ V2.0.4 - The february fix #1
 V2.0.3 - The monthly update 2025 #1
 
     UPDATED:
-    * MorePins will be updated to: 420.0.6
-    * AzuCraftyBoxes will be updated to: 1.5.10
-    * Jotunn will be updated to: 2.23.2
-    * WackyEpicMMOSystem will be updated to: 1.9.34
-    * ConfigurationManager will be updated to: 1.0.24
-    * CrystalLights will be updated to: 1.1.4
-    * Gizmo will be updated to: 1.14.0
-    * Chatter will be updated to: 2.10.0
+    * MorePins updated to v420.0.6
+    * AzuCraftyBoxes updated to v1.5.10
+    * Jotunn updated to v2.23.2
+    * WackyEpicMMOSystem updated to v1.9.34
+    * ConfigurationManager updated to v1.0.24
+    * CrystalLights updated to v1.1.4
+    * Gizmo updated to v1.14.0
+    * Chatter updated to v2.10.0
 
 
 ---
@@ -722,11 +722,11 @@ V2.0.2 - The bugfixing update #1
 V2.0.1 - The taming update
 
     UPDATED:
-    * Structure_Tweaks will be updated to: 1.34.0
-    * Jotunn will be updated to: 2.23.1
-    * AAA_Crafting will be updated to: 1.6.4
-    * Jewelcrafting will be updated to: 1.5.32
-    * MagicPlugin will be updated to: 2.1.0
+    * Structure_Tweaks updated to v1.34.0
+    * Jotunn updated to v2.23.1
+    * AAA_Crafting updated to v1.6.4
+    * Jewelcrafting updated to v1.5.32
+    * MagicPlugin updated to v2.1.0
 
     CONFIG CHANGES:
     * Changed taming a bit added some and removed some other.
