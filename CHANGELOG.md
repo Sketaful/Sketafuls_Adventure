@@ -1,4 +1,18 @@
-<b>V3.0.1
+<b>V3.0.2
+
+    UPDATED:
+    * Almanac will be updated to: 3.6.0
+    * KillMeForMyPower will be updated to: 1.3.8
+    * UsefulPaths will be updated to: 1.0.6
+    * WackyEpicMMOSystem will be updated to: 1.9.51
+    * ZenItemStands will be updated to: 0.6.10
+    * ZenSign will be updated to: 1.3.9
+
+---
+
+</b>
+
+V3.0.1
 
     UPDATED:
     * Zen_ModLib will be updated to: 1.3.7
@@ -13,8 +27,6 @@
       (As said above. Replaced by TrueInstantLoot drop which is way better)
 
 ---
-
-</b>
 
 V3.0.0
 
