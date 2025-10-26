@@ -1,4 +1,19 @@
-<b>V3.0.2
+<b>V3.0.3
+
+    UPDATED:
+    * AAA_Crafting updated to v2.1.3
+    * Build_Camera_Custom_Hammers_Edition updated to v1.2.8
+    * KillMeForMyPower updated to v1.3.9
+    * UsefulPaths updated to v1.0.7
+    * WackyEpicMMOSystem updated to v1.9.53
+    * Zen_ModLib updated to v1.3.10
+
+---
+
+</b>
+
+
+V3.0.2
 
     UPDATED:
     * Almanac updated to v3.6.0
@@ -9,8 +24,6 @@
     * ZenSign updated to v1.3.9
 
 ---
-
-</b>
 
 V3.0.1
 
