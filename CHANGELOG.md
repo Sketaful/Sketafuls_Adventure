@@ -1,4 +1,28 @@
-<b>V3.0.3
+<b>V3.0.4
+
+    UPDATED:
+    AAA_Crafting updated to v2.1.5
+    * Almanac updated to v3.6.4
+    * CookingAdditions updated to v1.3.0
+    * KillMeForMyPower updated to v2.1.0
+    * TargetPortal updated to v1.2.1
+    * TrueInstantLootDrop updated to v1.0.3
+    * UsefulPaths updated to v1.0.8
+    * WackyEpicMMOSystem updated to v1.9.56
+    * WackysDatabase updated to v2.4.63
+    * Zen_ModLib updated to v1.4.5
+
+    Changes:
+    * Vanilla bears "should" be tameable with raw fish, blueberrys and honey. 
+      (need some testing out, will be added to list of rideable later).
+    * Wolfs and Serpents now eat bear meat. 
+    * Removed preconfiguration of AAACrafting
+
+---
+
+</b>
+
+V3.0.3
 
     UPDATED:
     * AAA_Crafting updated to v2.1.3
@@ -9,9 +33,6 @@
     * Zen_ModLib updated to v1.3.10
 
 ---
-
-</b>
-
 
 V3.0.2
 
