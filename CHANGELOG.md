@@ -1,4 +1,32 @@
-<b>V3.0.4
+<b>V3.0.5
+
+    UPDATED:
+    Almanac updated to v3.7.4
+    AzuCraftyBoxes updated to v1.8.12
+    AzuExtendedPlayerInventory updated to v2.1.0
+    Build_Camera_Custom_Hammers_Edition updated to v1.2.9
+    ConfigurationManager updated to v1.1.12
+    Expand_World_Data updated to v1.56.0
+    Jotunn updated to v2.27.1
+    KillMeForMyPower updated to v2.2.1
+    MorePins updated to v420.0.9
+    OdinsSteelworks updated to v0.3.0
+    Recycle_N_Reclaim updated to v1.3.10
+    Waypoints updated to v1.1.9
+    Zen_ModLib updated to v1.5.8
+    ZenItemStands updated to v0.7.0
+    ZenSign updated to v1.5.0
+
+    REMOVED:
+    MajesticButton v1.0.5 by Azumatt (Depricated)
+    ResourceUnloadOptimizer v1.0.4 by Azumatt (Depricated)
+    VikingSails v1.1.5 by Azumatt (Depricated)
+
+---
+
+</b>
+
+V3.0.4
 
     UPDATED:
     AAA_Crafting updated to v2.1.5
@@ -19,8 +47,6 @@
     * Removed preconfiguration of AAACrafting
 
 ---
-
-</b>
 
 V3.0.3
 
