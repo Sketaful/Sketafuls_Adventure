@@ -1,0 +1,36 @@
+Title: Guide Book
+ReadOnly: true
+MaxPages: 2
+TitleFont: 
+TitleFontSize: 40
+BodyFont:
+BodyFontSize: 40
+
+Pages:
+  1: |
+    <b>YAML Fields (copy and edit for your own books):</b>
+    <color=#FFD700>Title:</color> The book's title (string, required)
+    <color=#FFD700>ReadOnly:</color> true/false (required, true = read-only, false = editable)
+    <color=#FFD700>MaxPages:</color> Maximum number of pages (integer, required)
+    <color=#FFD700>TitleFont:</color> Font name for the title (string, optional)
+    <color=#FFD700>TitleFontSize:</color> Font size for the title (integer, optional)
+    <color=#FFD700>BodyFont:</color> Font name for body text (string, optional)
+    <color=#FFD700>BodyFontSize:</color> Font size for body text (integer, optional)
+    
+    <b>How to create your own template:</b>
+    1. Copy this file and rename it (e.g., <i>my_book.yaml</i>).
+    2. Edit the fields above to your liking.
+    3. Place your file in the <i>Templates</i> folder.
+    4. Apply the new template to a fresh book.
+
+    <b>Apply a template in-game:</b>
+    <color=#ADD8E6>book_template bookname templatename</color>
+
+    <b>Console Commands:</b>
+
+    <color=#ADD8E6>book_template </color> — Lists info about commands
+    <color=#ADD8E6>list_books</color> — Lists all books in your inventory
+    <color=#ADD8E6>list_templates</color> — Lists all available templates
+
+    For a complete list of supported rich text tags, visit:
+    <link="https://docs.unity3d.com/Packages/com.unity.textmeshpro@4.0/manual/RichTextSupportedTags.html">TextMeshPro Tag Reference</link>
