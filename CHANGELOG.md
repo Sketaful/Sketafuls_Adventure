@@ -1,4 +1,80 @@
-<b>V3.1.2
+<b>V3.1.5
+
+    UPDATED:
+    * Jewelcrafting updated to v2.0.1
+    * WackysDatabase updated to v2.4.80
+    * WackyEpicMMOSystem updated to v1.9.60
+    * Zen_ModLib updated to v1.10.2
+    * ZenRedecorate updated to v1.4.1
+    * ZenSign updated to v1.7.1
+    
+    ADDED:
+    * CleanMainMenu By Crevitka
+    * Monstrum Location Manager Fix By sighsorry
+    * Serve You Right By sighsorry
+    * Target Portal Protection By Radamanto
+    * Valheim FPS Optimizer By K_xD
+    * WorldGen Accelerator By warpalicious
+    
+    REMOVED:
+    * FastLink By Azumatt
+    * StartupHotfix By MSchmoecker (not needed anymore)
+    
+    CONFIG CHANGES:
+    * Jewelcrafting - Fixed some things that had been moved after latest update.
+    * More Map Pins - The Special pins have been changed. This will change the ones ingame sadly.
+    * EpicMMOSystemUI - Removed config for UI to stop it reseting each update.
+
+    Unimportant changes:
+    * Changed icon for modpack :P
+
+
+</b>
+
+---
+
+V3.1.4
+
+    UPDATED:
+    * BetterZeeLog updated to v1.15.0
+    * Jotunn updated to v2.29.0
+    * PlantEasily updated to v2.1.1
+    * WackysDatabase updated to v2.4.78
+    * Zen_ModLib updated to v1.9.0
+    * ZenRedecorate updated to v1.2.3
+
+    REMOVED:
+    * AzuClock v1.0.5 by Azumatt ("might" leak some memory)
+
+    UPDATED CONFIGS:
+    * AzuExtendedPlayerInventory by Azumatt (had been zeroed by update)
+    * KillMeForMyPower by turbero (Fixed the integration with EpicMMO, now you can kill bosses as usual)
+
+---
+
+V3.1.3
+
+    UPDATED:
+    * AllTameableTamingOverhaul Updated to v1.5.4
+    * Almanac will be updated to: 3.7.8
+    * AzuCraftyBoxes Updated to v1.8.14
+    * AzuExtendedPlayerInventory Updated to v2.4.1
+    * ConfigurationManager Updated to v1.1.13
+    * Expand_World_Data Updated to v1.63.0
+    * Jotunn Updated to v2.28.0
+    * KillMeForMyPower Updated to v2.3.1
+    * MountUpRestored Updated to v3.4.4
+    * PlantEasily Updated to v2.1.0
+    * Recycle_N_Reclaim Updated to v1.4.0
+    * WackyEpicMMOSystem Updated to v1.9.59
+    * WackysDatabase Updated to v2.4.76
+    * Waypoints Updated to v1.2.1
+    * Zen_ModLib Updated to v1.8.5
+    *  Updated to v1.6.0
+
+---
+
+V3.1.2
 
     UPDATED:
     * Almanac Updated to v3.7.7
@@ -10,8 +86,6 @@
     * Zen_ModLib updated to v1.6.10
 
 ---
-
-</b>
 
 V3.1.1
 
